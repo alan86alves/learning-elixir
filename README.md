@@ -2,7 +2,6 @@
   <img src="https://cdn-images-1.medium.com/max/1600/1*HOSTZ7HFBYsLhYlIe1JH2w@2x.jpeg">
 </p>
 
-
 * É uma linguagem Brasileira. :)
 
 * Foi desenvolvida pelo brasileiro José Valim, o mesmo é um dos membros do rails core team e co-founder da plataformatec.
