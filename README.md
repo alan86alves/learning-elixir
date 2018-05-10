@@ -1,6 +1,7 @@
 <p align="center">
-![Logo Elixir](https://cdn-images-1.medium.com/max/1600/1*HOSTZ7HFBYsLhYlIe1JH2w@2x.jpeg)
+  <img src="https://cdn-images-1.medium.com/max/1600/1*HOSTZ7HFBYsLhYlIe1JH2w@2x.jpeg">
 </p>
+
 
 * É uma linguagem Brasileira. :)
 
