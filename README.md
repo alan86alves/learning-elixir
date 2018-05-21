@@ -2,6 +2,33 @@
   <img src="https://cdn-images-1.medium.com/max/1600/1*HOSTZ7HFBYsLhYlIe1JH2w@2x.jpeg">
 </p>
 
+# Install
+
+## Installing Kiex
+
+Please run the following command on your terminal.
+
+```bash
+\curl -sSL https://raw.githubusercontent.com/taylor/kiex/master/install | bash -s
+```
+
+Then you need to add the following line into your shell init file, ~/.bashrc, ~/.bash_profile, ~/.profile, ~/.zshrc, or ~/.zsh_profile.
+
+```
+test -s "$HOME/.kiex/scripts/kiex" && source "$HOME/.kiex/scripts/kiex"
+```
+## Installing elixir with kiex
+
+```bash
+$ kiex list known
+```
+
+```bash
+$ kiex install 1.5.2
+```
+
+# Intro
+
 * É uma linguagem Brasileira. :)
 
 * Foi desenvolvida pelo brasileiro José Valim, o mesmo é um dos membros do rails core team e co-founder da plataformatec.
