@@ -100,6 +100,10 @@ $ kiex install 1.5.2
 
 	* [x] https://www.youtube.com/watch?v=dQPGk6h59zs (58m:46s)
 
+* A linguagem Elixir - Alura Live #80
+
+	* [x] https://www.youtube.com/watch?v=VGLhnZr1zWM
+
 ## Elixir/Functional Programming
 
 - [x] https://www.youtube.com/watch?v=GxnbUqPwuKw&t=9s (23m:17s)
