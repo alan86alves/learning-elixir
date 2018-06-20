@@ -104,6 +104,10 @@ $ kiex install 1.5.2
 
 	* [x] https://www.youtube.com/watch?v=VGLhnZr1zWM
 
+## Elixir/Books
+
+	- http://learnyousomeerlang.com/content
+
 ## Elixir/Functional Programming
 
 - [x] https://www.youtube.com/watch?v=GxnbUqPwuKw&t=9s (23m:17s)
