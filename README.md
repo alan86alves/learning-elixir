@@ -106,7 +106,7 @@ $ kiex install 1.5.2
 
 ## Elixir/Books
 
-	- http://learnyousomeerlang.com/content
+- http://learnyousomeerlang.com/content
 
 ## Elixir/Functional Programming
 
